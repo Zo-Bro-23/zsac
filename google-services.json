@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936656044073",
+    "firebase_url": "https://profile-picture-zsac.firebaseio.com",
+    "project_id": "profile-picture-zsac",
+    "storage_bucket": "profile-picture-zsac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936656044073:android:f32673fa290c8971d91c38",
+        "android_client_info": {
+          "package_name": "com.zsat.zsac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936656044073-es8r8i5b9np7pq91pts5u0nhbe089vg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zsat.zsac",
+            "certificate_hash": "cbedd6467ac52e4586aed98d6b8ec1942e703563"
+          }
+        },
+        {
+          "client_id": "936656044073-2t71vvk81gmul0p655nkk1dtln7fme3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKavsufx6uHscnnp2tge8sHOef-lFj_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936656044073-2t71vvk81gmul0p655nkk1dtln7fme3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
